@@ -1,0 +1,7 @@
+{
+  "name": "Lava",
+  "description": "Lava Pool",
+  "ticker": "LAVA",
+  "homepage": "",
+  "extended": "https://raw.githubusercontent.com/Lava-Pool/meta/metadata-extended.json"
+}
