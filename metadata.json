@@ -3,5 +3,5 @@
   "description": "Lava Pool",
   "ticker": "LAVA",
   "homepage": "",
-  "extended": "https://raw.githubusercontent.com/LavaPoolSPO/meta/metadata-extended.json"
+  "extended": "https://raw.githubusercontent.com/LavaPoolSPO/meta/main/metadata-extended.json"
 }
